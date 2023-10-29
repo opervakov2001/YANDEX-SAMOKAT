@@ -1,4 +1,4 @@
-#твое имя, когорта, спринт, курс.
+#Олег Перваков 11 спринт дипломный проект инженер по тестированию плюс
 import Create_and_Search_Order
 
 def test_search_order_status_code_200():
