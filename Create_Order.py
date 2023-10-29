@@ -1,6 +1,6 @@
 import configuration
 import requests
-import Data
+import data
 
 
 def post_new_order(body):
